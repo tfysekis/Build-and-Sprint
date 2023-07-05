@@ -1,4 +1,4 @@
-# Sprint and Build
+# Build and Sprint
 
 Sprint and Build is a fun mini-game I created as a small project. In this game, the character must jump over or under 20 obstacles to win. Additionally, the character can collect coins along the way to earn extra points.
 
@@ -14,7 +14,7 @@ Sprint and Build is a fun mini-game I created as a small project. In this game, 
 
 - Navigate to the "Builds" folder.
 - Download the Linux folder.
-- Click the BuildandSprint, done!
+- Click the Build and Sprint, done!
 
 Here's an image on how it looks like:![Alt text](photo.png)
 
